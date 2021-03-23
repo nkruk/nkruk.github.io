@@ -28,7 +28,7 @@ url: "https://kruk.dev" # the base hostname & protocol for your site, e.g. http:
 github_username:  nkruk
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
