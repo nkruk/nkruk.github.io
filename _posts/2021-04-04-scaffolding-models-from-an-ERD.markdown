@@ -28,7 +28,7 @@ end
 
 We need `product_variation_options` as a junction or cross-reference entity in order to associate each variation with a number of `product_attribute_options`. One may ask what's the point of having a `product_variation` table to begin with. Why can't we simply assert that a `product` `has_many` `product_attribute_options`. Well, on one hand imagine a product has lots of attributes attached to it. Then you would need to set all the options when creating it. If we bundle them then it's a matter of selecting the variation (i.e: Red large V neck). And on the other hand, it's a handy way of retrieving data from different products that may have the same set of `product_attribute_options`. Of course you can always get that same data by adding several options to a search filter, but I think it's cleaner to have a separate variation entity.
 
-In any case, and to come back to the topic at hand, junction or cross-reference entitities like the ones we would put in a `through:` association like the one above do not need a scaffold. (The reason why I'm using `has_many :through` instead of `has_and_belongs_to_many` is for another post).
+In any case, and to come back to the topic at hand, junction or cross-reference entitities like the ones we would put in a `through:` association like the one above do not need a scaffold. (The reason why I'm using `has_many :through` instead of `has_and_belongs_to_many` comes from [here][why-not-to-use-has-and-belongs-to-many]).
 
 B.- For models that will become [`nested attributes`][nested-attributes] of parent models. 
 
@@ -127,8 +127,7 @@ end
 ...
 {% endhighlight %}
 
-As we already announced, we'll tackle the decision to use `through:` in a different post.
-
 So in a nutshell, after executing the generate commands we've taken care of two main issues: changing the flag of any optional `belongs_to` associations (and we must do this before running the migrations) and also add any necessary `has_many` associations to the `ApplicationRecords` (including its `dependent:` option if required).
 
 [nested-attributes]: https://api.rubyonrails.org/v6.1.3.1/classes/ActiveRecord/NestedAttributes/ClassMethods.html
+[why-not-to-use-has-and-belongs-to-many]: https://flatironschool.com/blog/why-you-dont-need-has-and-belongs-to-many
