@@ -129,6 +129,6 @@ end
 
 As we already announced, we'll tackle the decision to use `through:` in a different post.
 
-So in nutshell, after executing the generate commands we've taken care of two main issues: changing the flag of any optional `belongs_to` associations (and we must do this before running the migrations) and also add any necessary `has_many` associations to the `ApplicationRecords` (including its `dependent:` option if required).
+So in a nutshell, after executing the generate commands we've taken care of two main issues: changing the flag of any optional `belongs_to` associations (and we must do this before running the migrations) and also add any necessary `has_many` associations to the `ApplicationRecords` (including its `dependent:` option if required).
 
 [nested-attributes]: https://api.rubyonrails.org/v6.1.3.1/classes/ActiveRecord/NestedAttributes/ClassMethods.html
