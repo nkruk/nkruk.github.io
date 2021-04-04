@@ -11,7 +11,7 @@ One of the features I love the most about Rails is the ability to quickly scaffo
 
 This is a slice of a schema belonging to a tailor-made CRM project. And it's my own brand of ERD diagram. One that helps me to generate the proper model scaffoldings. I'm not interested in specifying all the possible relationships between tables. Only the ones that could or will have an impact on my Rails code. So for example, a `product_category` can have zero or many `products` in it, but since I'm not specifying that association on the code then I'm not interested in making that distinction in my diagram either. We'll go over the numbered references in a bit.
 
-I.- The first couple of questions that pop in my head after completing the diagram are: **how do I translate this ERD into a set of `rails generate` commands? For which entities I need to generate a scaffold and for which models I need to generate just a model?**
+I.- The first couple of questions that pop in my head after completing the diagram are: **how do I translate this ERD into a set of `rails generate` commands? For which entities I need to generate a scaffold and for which entities I need to generate just a model?**
 
 The answer I came up with so far is the following: You only `rails g model` instead of a full `scaffold` in the following cases:  
 
