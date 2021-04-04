@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: After the basics
+title: Conscious Competence
 email: nicolasgkruk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Overcoming the tutorial limbo by doing scary things with my favorite technology (Ruby on Rails) and going over done stuff step by step. Things I couldn't (exactly) find on Google.
