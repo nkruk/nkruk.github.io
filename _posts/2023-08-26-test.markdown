@@ -6,8 +6,7 @@ category: english
 comments_id: 1
 ---
 
-This is just a test, but let's answer the question while we are here, check out this link:
-https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+This is just a test, but let's answer the question while we are here, check out [`this docs page`][testing-jekyll-locally].
 
 You don't even remember how to run this locally, don't you?
 
@@ -16,4 +15,7 @@ bundle exec jekyll serve
 {% endhighlight %}
 
 Ah, but if you're running a ruby version > 3.1.2 then you're screwed. 
-Switch to 3.1.2 (using your beloved chruby).
+Switch to 3.1.2 (using your beloved chruby). At least according to [`this issue comment`][problem-with-jekyll].
+
+[testing-jekyll-locally]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+[problem-with-jekyll]: https://github.com/jekyll/jekyll/issues/9233#issuecomment-1365790440
