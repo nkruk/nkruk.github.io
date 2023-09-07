@@ -15,7 +15,7 @@ What happens next? What are the pitfalls ahead? What's required of me?
 
 The advice that will follow is very personal but I was once a junior and, oh man, I wish I've read back then what I'm about to write here. With a bit of luck it may also help you. Part of my current job responsibilities involve mentoring freshly minted programmers through the mazes of our backend during their first few months in the company. This post is dedicated to all those new developers that taught me with their questions more than I could have learned on my own.
 
-I got my first job as a developer in July, 2019 back when I was 32 years old. And I think I've learned a thing or two about on what it takes to thrive as a junior developer:
+I got my first job as a developer in July, 2019. And I think I've learned a thing or two about on what it takes to thrive as a junior developer:
 
 1. If you're like me (meaning: not specially gifted for the dark arts of programming) then answer number one is time. You need time. 
 
