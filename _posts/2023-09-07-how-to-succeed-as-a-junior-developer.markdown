@@ -52,7 +52,7 @@ I got my first job as a developer in July, 2019. And I think I've learned a thin
 
 To recap: you need time, lots of it. Time DOING stuff that is slightly above what you can do unaided. For that you probably need a real life human guide/mentor. Don't get obsessed over all the details, you'll learn stuff as you need it. But be curious and enjoy messing with shiny new stuff. Ask for help if the excitement of the puzzle is turning into sour self-hatred. And get increasingly better in knowing how to search for solutions. Ideally you will go through a never ending string of blockages followed by Eureka moments. At the end of each 'Eureka!' you should have learned three things: to solve the specific thing, to get a blurry idea on how to solve similar stuff in the future, and finally, you should have learned to search related problems with all the precise technical terms.
 
-And don't forget to have a laugh as often as possible. Have fun and see you on the other side!
+And don't forget to have a laugh as often as possible. See you on the other side!
 
 [zone-of-proximal-development]: https://en.wikipedia.org/wiki/Zone_of_proximal_development
 [four-stages-of-competence]: https://en.wikipedia.org/wiki/Four_stages_of_competence
