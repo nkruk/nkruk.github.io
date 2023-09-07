@@ -8,9 +8,9 @@ categories:
 comments_id: 2
 ---
 
-This is just a test, but let's answer the question while we are here, check out [`this docs page`][testing-jekyll-locally].
+Check out [`this docs page`][testing-jekyll-locally].
 
-You don't even remember how to run this locally, don't you?
+It's been two years. You don't even remember how to run this locally, don't you?
 
 {% highlight ruby %}
 bundle exec jekyll serve

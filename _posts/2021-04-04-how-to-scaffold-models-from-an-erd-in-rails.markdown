@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scaffolding models from an ERD"
+title:  "How to scaffold models from an ERD in Rails"
 date:   2021-04-04 11:48:15 +0100s
 categories:
   english
