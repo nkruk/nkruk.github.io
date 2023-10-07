@@ -6,7 +6,6 @@ categories:
   english
   programming
   learning
-comments_id: 3
 ---
 
 Congratulations! You've been just hired as a junior developer. You probably went through one of those Javascript full stack bootcamps, finished a CS degree in the University, or self-taught your way into the profession. It's all the same. Kudos. 

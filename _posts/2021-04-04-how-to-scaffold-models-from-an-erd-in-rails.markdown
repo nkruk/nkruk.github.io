@@ -6,7 +6,6 @@ categories:
   english
   programming
   rails
-comments_id: 2
 ---
 One of the features I love the most about Rails is the ability to quickly scaffold my models into an instant out-of-the-box CRUD interface. The way I would go about this procedure is first to create a barebones Entity Relationship Diagram. The following image depicts one of the diagrams I might create:
 

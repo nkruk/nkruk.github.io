@@ -6,7 +6,6 @@ categories:
   english
   programming
   jekyll
-comments_id: 2
 ---
 
 Check out [`this docs page`][testing-jekyll-locally].
