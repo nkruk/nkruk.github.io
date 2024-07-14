@@ -113,25 +113,29 @@ The `devcontainer.json` will end up something like:
 {% endhighlight %}
 
 If you open `devcontainer.json` in a tab in `Rubymine` you should see now a cube icon in there:
-
+<br/><br/>
 ![Cube Icon]({{ site.url }}/assets/images/cube-icon.png)
-
+<br/><br/>
 Hit on `Create dev container and Mount Sources`:
+<br/><br/>
 ![Create dev container]({{ site.url }}/assets/images/create-dev-container.png)
-
+<br/><br/>
 This will open a dialog, install all what's needed and end up opening up a `Rubymine IDE Backend client`. This is the `Rubymine` instance that will be running inside the Docker container of our Rails app.
 
 You will probably be prompted to install the proper version of ruby set on the application:
+<br/><br/>
 ![Install Ruby]({{ site.url }}/assets/images/install-ruby.png)
+<br/><br/>
 After doing that the console will suggest you to run a `rbenv global` command to that installed version. Something like: 
 
 {% highlight bash %}
 rbenv global 3.3.1
 {% endhighlight %}
 
-Do that within the `Rubymine` terminal. After that you will probably need to close the client so it can automatically get the Ruby SDK. Close the client, go back to your original `Rubymine` window, on the `devcontainer.json` tab and then start it over again by hitting `Show Dev Containers` option:
+Do that within the `Rubymine` terminal. After that you will probably need to close the client so it can automatically get the Ruby SDK. Close the client, go back to your original `Rubymine` window, on the `devcontainer.json` tab and then start it over again by hitting `Show Dev Containers` option:  
+<br/><br/>
 ![Show Dev Containers]({{ site.url }}/assets/images/show-dev-containers.png)
-
+<br/><br/>
 Click on the name of your devcontainer and that will re-start the client. If you now get the prompt to run `bundle install` then it means the SDK has been configured.
 
 If you hit debug, you will be as usual, prompted to install the proper debugging gem. Do that.
