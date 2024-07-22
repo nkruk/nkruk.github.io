@@ -86,9 +86,9 @@ Notice that I set the PG `ports` to address `5432` to `5433`. The reason for thi
 
 `Dockerfile` only needs a small modification, we need to add a language encoding. By default `Linux` will use `ASCII` but more probable than not we will run into some issues while trying to run code with `unicode` chars. You can read more about this issue and its solution [`here`][unicode-in-linux].
 
-{% highlight yaml %}
+{% highlight bash %}
 # Make sure RUBY_VERSION matches the Ruby version in .ruby-version
-ARG RUBY_VERSION=3.3.4
+ARG RUBY_VERSION=3.3.1
 FROM ghcr.io/rails/devcontainer/images/ruby:$RUBY_VERSION
 ENV LANG C.UTF-8
 {% endhighlight %}
