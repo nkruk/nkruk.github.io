@@ -84,6 +84,15 @@ volumes:
 
 Notice that I set the PG `ports` to address `5432` to `5433`. The reason for this is I normally like to keep the default port (`5432`) to run it locally if necessary (so not remotely through Docker, but actually installed on my machine.) It should work the same without specifying that.
 
+`Dockerfile` only needs a small modification, we need to add a language encoding. By default `Linux` will use `ASCII` but more probable than not we will run into some issues while trying to run code with `unicode` chars. You can read more about this issue and its solution [`here`][unicode-in-linux].
+
+{% highlight yaml %}
+# Make sure RUBY_VERSION matches the Ruby version in .ruby-version
+ARG RUBY_VERSION=3.3.4
+FROM ghcr.io/rails/devcontainer/images/ruby:$RUBY_VERSION
+ENV LANG C.UTF-8
+{% endhighlight %}
+
 The `devcontainer.json` will end up something like: 
 
 {% highlight json %}
@@ -151,3 +160,4 @@ Here's some [`more`][devcontainers-in-rubymine] about `devcontainers` within `Ru
 [devcontainer]: https://containers.dev/
 [rails-new github issue]: https://github.com/rails/rails-new/issues/20
 [devcontainers-in-rubymine]: https://www.jetbrains.com/help/ruby/connect-to-devcontainer.html
+[unicode-in-linux]: https://thom4.net/2015/docker-encoding/
