@@ -2,10 +2,6 @@
 layout: post
 title:  "How to succeed as a junior developer"
 date:   2023-09-07 18:29:22 +0100s
-categories: 
-  english
-  programming
-  learning
 ---
 
 Congratulations! You've been just hired as a junior developer. You probably went through one of those Javascript full stack bootcamps, finished a CS degree in the University, or self-taught your way into the profession. It's all the same. Kudos. 

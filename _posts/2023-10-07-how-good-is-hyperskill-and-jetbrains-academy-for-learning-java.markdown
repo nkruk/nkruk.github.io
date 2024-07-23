@@ -2,10 +2,6 @@
 layout: post
 title:  "How good is Hyperskill and JetBrains Academy for learning Java"
 date:   2023-10-07 08:30:22 +0100s
-categories: 
-  english
-  programming
-  learning
 ---
 
 Last year the imposter syndrome gods demanded yet another sacrifice so I decided to give them a substantious offering. JetBrains, creators of lovable IDEs and the Kotlin programming language, had launched their own JetBrains Academy (through a site called Hyperskill), so I signed up for an annual subscription.

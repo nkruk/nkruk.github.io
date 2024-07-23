@@ -3,8 +3,6 @@ layout: post
 title:  "How to update a Github Pages Jekyll blog after years of inactivity"
 date:   2023-08-26 13:43:15 +0100s
 categories: 
-  english
-  programming
   jekyll
 ---
 

@@ -3,8 +3,6 @@ layout: post
 title:  "How to run a fully containerized and debuggable local development environment in Rubymine"
 date:   2024-07-14 11:30:22 +0100s
 categories: 
-  english
-  programming
   rails
 ---
 

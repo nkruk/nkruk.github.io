@@ -3,8 +3,6 @@ layout: post
 title:  "How to scaffold models from an ERD in Rails"
 date:   2021-04-04 11:48:15 +0100s
 categories:
-  english
-  programming
   rails
 ---
 One of the features I love the most about Rails is the ability to quickly scaffold my models into an instant out-of-the-box CRUD interface. The way I would go about this procedure is first to create a barebones Entity Relationship Diagram. The following image depicts one of the diagrams I might create:
