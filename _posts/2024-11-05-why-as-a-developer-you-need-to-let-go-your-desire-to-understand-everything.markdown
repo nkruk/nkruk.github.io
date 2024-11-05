@@ -57,7 +57,7 @@ Not the abstract problem of 'concurrency', 'DB CPU usage', 'Hibernate 6 vs 5'. Y
 
 The dreaded imposter syndrome will punish you afterwards: "You don't even know what you just did to fix the issue. Shame. Shame. Shame." 
 
-Maybe, sort of, in a way, but not completely, right? In a way is true because the square remains invisible to you. You did your diagonal, fixed the issue and moved on. You can lie to yourself and your colleagues and go on describing the square you weren't even able to see. And maybe you will never see it (and you can rest assured many of those that say 'they totally see a square' won't do either). But eventually you will see something. The glorious outline of a square will emerge as the foreground of all those hard earned crisscrossed diagonals. 
+Maybe, sort of, in a way, but not completely, right? In a way is true because the square remains invisible to you. You did your diagonal, fixed the issue and moved on. You can lie to yourself and your colleagues and go on describing the square you weren't even able to see. And maybe you will never see it (and you can rest assured many of those that say 'they totally see a square' won't do either). But eventually you will see something. The glorious outline of a square will emerge as the background of all those hard earned crisscrossed diagonals. 
 
 Or maybe not. 
 
