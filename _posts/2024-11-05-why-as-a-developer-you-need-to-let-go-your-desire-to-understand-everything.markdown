@@ -42,7 +42,7 @@ So if we combine Lockhart and Sanderson we get from them these two halves. On th
 
 "Dude, I thought this post was about programming..." The point is that we are conditioned with this computation habit from an early age. We tend to believe that we start from A and end up in Z. And A will unlock B and B will unlock C. But this is rarely the case in the real world. And so glad this is the case!
 
-Its the holes in between what make stuff interesting, lovable, an even into an art form. Holes are what enable us to participate. If all is known and completed why should we be compelled to have a say or turn a problem into a playground?
+It is the holes in between what make stuff interesting, lovable, an even into an art form. Holes are what enable us to participate. If all is known and completed why should we be compelled to have a say or turn a problem into a playground?
 
 Many programmers, like myself, are a bit like [`Cate Blanchett's character on Indiana Jones 4`][I want to know] (yes, I actually love this film). We want to know and we want to know, 'everything'. Whatever 'everything' means. 
 
