@@ -40,7 +40,11 @@ And in the following video he says:
 
 So if we combine Lockhart and Sanderson we get from them these two halves. On the one side there's computation (the applying of formulas/mechanical rote procedures to get results that will get us passing grades), and on the other side: the intuition, the insight, the beauty, the art, the joy of the hunt.
 
-"Dude, I thought this post was about programming..." Look, many programmers, like myself, are a bit like [`Cate Blanchett's character on Indiana Jones 4`][I want to know] (yes, I actually love this film). We want to know and we want to know, 'everything'. Whatever 'everything' means. 
+"Dude, I thought this post was about programming..." The point is that we are conditioned with this computation habit from an early age. We tend to believe that we start from A and end up in Z. And A will unlock B and B will unlock C. But this is rarely the case in the real world. And so glad this is the case!
+
+Its the holes in between what make stuff interesting, lovable, an even into an art form. Holes are what enable us to participate. If all is known and completed why should we be compelled to have a say or turn a problem into a playground?
+
+Many programmers, like myself, are a bit like [`Cate Blanchett's character on Indiana Jones 4`][I want to know] (yes, I actually love this film). We want to know and we want to know, 'everything'. Whatever 'everything' means. 
 
 At this point I have to wear my psychotherapist hat and say a few things. And sorry if you don't see a clear connection between the initial Math rant and what follows. I think that to 'understand something' is not a very human impulse. I sense shame and anger behind such a convoluted purpose. 
 
