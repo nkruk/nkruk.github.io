@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI, please automate my job"
-date:   2024-11-14 19:15:22 +0100s
+date:   2024-11-14 18:15:22 +0100s
 ---
 
 Today was one of those difficult days at the work. I wanted to timestamp this moment, and my sentiment towards AI. 
