@@ -29,6 +29,6 @@ That's it. It has to boil down to these two. As of today I assign a prior probab
 
 If it's Skynet what lies in the future, then ok, we will all die or go back to harvest potatoes, in its own way it will suck, but at the same time I will be amazed. Forget about pet-project code for online webshops or snake game clones. If AI can automate the absolute irrational chaos of my daily job as a back-end developer, if it can put sense in the hundreds of tables, dozens of repositories, deprecated documentation, ad-hoc unspoken agreements, arcane, idiosyncratic workflows stemming from the collaboration and needs of a myriad teams and hundreds of employees chipping in over the course of many years. All that human mayhem that I'm positively sure is part of every company comprised of human beings then so be it... in awe I will march to the fields and get on down with those potatoes.
 
-[emos]:https://www.youtube.com/watch?v=tNmgmwEtoWE
+[demos]:https://www.youtube.com/watch?v=tNmgmwEtoWE
 [RGA]:https://www.llamaindex.ai/
 [sabine]:https://www.youtube.com/watch?v=I_GlPNN_jJg
