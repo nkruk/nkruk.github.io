@@ -4,7 +4,7 @@ title:  "AI, please automate my job"
 date:   2024-11-14 18:15:22 +0100s
 ---
 
-Today was one of those difficult days at the work. I wanted to timestamp this moment, and my sentiment towards AI. 
+Today was one of those difficult days at work. I wanted to timestamp this moment, and my sentiment towards AI. 
 
 It seems there are two main camps on this subject. The polarization that reigns in politics and culture has also reached to technology. The two positions can be summed up as: 
 
