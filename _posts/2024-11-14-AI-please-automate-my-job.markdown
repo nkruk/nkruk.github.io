@@ -8,8 +8,8 @@ Today was one of those difficult days at the work. I wanted to timestamp this mo
 
 It seems there are two main camps on this subject. The polarization that reigns in politics and culture has also reached to technology. The two positions can be summed up as: 
 
-A) AI is just a fancy parlor trick. It fundamentally changes nothing. 
-B) AI poses an existential threat to humanity.
+*A*) AI is just a fancy parlor trick. It fundamentally changes nothing. 
+*B*) AI poses an existential threat to humanity.
 
 I remember when my family got a dial-up modem in the 90s. I was hooked. I was 10 or so and knew it would change everything. I remember being 12 and ordering by email magic tricks from a store in another city 500 kilometers away from home. I knew that this would catch on. It was so convenient that it was a matter of time... this way of doing stuff would storm over the world. And it did.
 
@@ -19,16 +19,16 @@ I really tried, many many *many* times, different AI iterations, different appli
 
 One of the things I like the most about reading and listening to pundits is collecting their predictions. I keep a list of predictions from each of my favorite economic analysts and then as time goes by I like to revisit them. What interests me is not the result they predicted but rather the reasons they put forward to support their predictions. I'm not a luddite, I'm completely into technology, and I want to be wrong, but so far I feel more in the 'parlor trick' camp than in the 'Skynet' one. Let me share my reasons.
 
-This post is meant to be a time capsule in which I express some hypotheses about what might be going on. In no particular order:
+This post is meant to be a time capsule in which I express some hypotheses about what might be going on:
 
 a) I'm stupid. I simply lack the proper cognitive/technical skills that would enable me, as a developer, to unleash the power of AI. In the next couple of years better, simpler tools will be launched and my day to day will be dramatically impacted. I could probably get this result now, but again, I'm a limited person.
 
 b) AI was initially promising (ChatGPT release back in November 2022 when it made world headlines), got the whole industry into a bubble and now everyone has the incentive to remain bullish. And by the whole industry I mean from the very big names up to the content creators that are happy about the clicks and views AI bring (and all those snake oil salesmen that sold juicy workshops/events to so many companies). They thought this would improve exponentially and when it didn't they panicked and decided to double down and keep pretending that the king is not naked. A bit like [`Sabine Hossenfelder`][sabine] explains theoretical physicists do as they keep collecting increasingly more money for increasingly bigger colliders to discover new particles that maybe don't exist. 
 
-That's it. I originally thought I was gonna come up with a bunch of these but really, it has to boil down to these two. In two years we will know if it was *a*, or *b* and also from up above *A* or *B*. 
+That's it. It has to boil down to these two. As of today I assign a prior probability of 70% to **a** and 30% to **b** In two years I will adjust these in a Bayesian way.
 
-If it's Skynet, then ok, we will all die or go back to harvest potatoes, in its own way it will suck, but at the same time I will be amazed. Forget about pet-project code for online webshops or snake game clones. If AI can automate the absolute irrational chaos of my daily job as a back-end developer, if it can put sense in the hundreds of tables, dozens of repositories, deprecated documentation, ad-hoc unspoken agreements, all that human mayhem that I'm positively sure is part of every company comprised of human beings then so be it... in awe I will march to the fields and get on down with those potatoes.
+If it's Skynet what lies in the future, then ok, we will all die or go back to harvest potatoes, in its own way it will suck, but at the same time I will be amazed. Forget about pet-project code for online webshops or snake game clones. If AI can automate the absolute irrational chaos of my daily job as a back-end developer, if it can put sense in the hundreds of tables, dozens of repositories, deprecated documentation, ad-hoc unspoken agreements, arcane, idiosyncratic workflows stemming from the collaboration and needs of a myriad teams and hundreds of employees chipping in over the course of many years. All that human mayhem that I'm positively sure is part of every company comprised of human beings then so be it... in awe I will march to the fields and get on down with those potatoes.
 
-[demos]:https://www.youtube.com/watch?v=tNmgmwEtoWE
+[emos]:https://www.youtube.com/watch?v=tNmgmwEtoWE
 [RGA]:https://www.llamaindex.ai/
 [sabine]:https://www.youtube.com/watch?v=I_GlPNN_jJg
