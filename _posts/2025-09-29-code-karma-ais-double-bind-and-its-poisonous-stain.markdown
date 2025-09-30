@@ -11,7 +11,7 @@ Welcome to my second post with rambling thoughts on AI usage. And remember: The 
 
 Maybe it's my bad luck but there's a constant in my professional life as a developer: all those tiny-and-not-completely-understood code excerpts (TANCUCEs) that I fish out from StackOverflow (or now from AI generated code) that I've used to cop out of thorny issues have consistently came back to haunt me and bite me in the ass if not sooner then later. I call it code karma.
 
-Code karma has increased significantly in this AI era. Even more TANCUCEs get into production code every day. And worse yet, Copilot is suggesting us TANCUCEs after each new pressed Enter (meaning: even when we are not even actively looking for them). And of course, being the lazy humans we are, we keep pressing Tab.
+Code karma has increased significantly in this AI era. Even more TANCUCEs get into production code every day. And worse yet, Copilot is suggesting us TANCUCEs after each new pressed Enter (meaning: even when we are not actively looking for them). And of course, being the lazy humans we are, we keep pressing Tab.
 
 There's a bit of a double bind going on with AI in programming. A bit of context for all those technical readers without a head rotten by Psychology lectures. Double bind is a beautiful theory created by Gregory Bateson about how can you make someone schizophrenic (Disclaimer: it's only a theory, we don't actually have many certainties about the origins of schizophrenia). So in essence, a double bind happens when a group or individual gets two conflicting demands. Demand 1: use AI tools and AI generated code, develop faster. Demand 2: Be careful, don't push anything you don't understand, don't trade expediency for technical debt/hard to catch bugs.
 
