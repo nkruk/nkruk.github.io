@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code karma, AI's double bind and its poisonous stain"
-date:   2025-09-30 17:00:00 +0100s
+date:   2025-09-29 20:00:00 +0100s
 ---
 
 Welcome to my second post with rambling thoughts on AI usage. And remember: The opinions shared here are my own and do not reflect the views of my employer nor the ones of my family, friends, colleagues, or even neighbors.
