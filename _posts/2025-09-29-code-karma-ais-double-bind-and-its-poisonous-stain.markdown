@@ -27,6 +27,6 @@ And here's my final rambling thought. Recently I bumped into what I reckon to be
 
 Think about my experience with Math. I used AI as a crutch. A dirty little secret that we look forward not needing in the future (at least not for the same things). People buy into human connection. We buy into products and services in which the human touch of love is self-evident. Will AI 'features' in products, content and services play the role of a poisonous stain for the consumer?
 
-That's it for now. And yes, maybe I deserve the luddite label. I think it's more than that. Maybe my sustained scepticism simply stems from two dearly held working class beliefs ingrained into my brain: 1) If it's too good to be true, it probably is. 2) Nothing truly good comes easy.
+That's it for now. And yes, maybe I deserve the luddite label. I think it's more than that. Maybe my sustained scepticism simply stems from two dearly held working class beliefs ingrained into my brain: 1) If it looks too good to be true, then it probably is. 2) Nothing truly good comes easy.
 
 P.S: This post correct grammar or lack-thereof comes courtesy of ChatGPT.
