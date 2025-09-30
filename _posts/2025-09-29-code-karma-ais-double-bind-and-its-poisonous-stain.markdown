@@ -6,7 +6,7 @@ date:   2025-09-29 20:00:00 +0100s
 
 Welcome to my second post with rambling thoughts on AI usage. And remember: The opinions shared here are my own and do not reflect the views of my employer nor the ones of my family, friends, colleagues, or even neighbors.
 
-***
+**
 
 
 Maybe it's my bad luck but there's a constant in my professional life as a developer: all those tiny-and-not-completely-understood code excerpts (TANCUCEs) that I fish out from StackOverflow (or now from AI generated code) that I've used to cop out of thorny issues have consistently came back to haunt me and bite me in the ass if not sooner then later. I call it code karma.
